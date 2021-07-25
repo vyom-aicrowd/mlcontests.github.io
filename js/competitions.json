@@ -1,6 +1,14 @@
  {
      "data": [
-     {
+      {
+         "name": "AIBlitz X",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-10?utm_source=mlc&utm_medium=post&utm_campaign=aiblitzx",
+         "type": "🔁 Computer Vision",
+         "deadline": "11 Aug 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },{
          "name": "NeurIPS 2021 MineRL Diamond Competition",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
          "type": "🔁 Reinforcement Learning",
